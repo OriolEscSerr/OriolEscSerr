@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b76a941-5389-45c4-a5a9-56ec606ac3ce)<h1 align="center">Hi, I'm Oriol Escolà Serra</h1>
+<h1 align="center">Hi, I'm Oriol Escolà Serra</h1>
 <h3 align="center">Computer engineering student</h3>
 <br>
 
