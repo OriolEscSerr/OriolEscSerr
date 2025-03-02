@@ -2,7 +2,7 @@
 <h3 align="center">Computer engineering student</h3>
 <br>
 
-<div align="center">
+<section align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-</div>
+</section>
 <br>
 
-<p align="center">
+<section align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OriolEscSerr&theme=dark&hide_border=false" />
-</p>
+</section>
 
 
 
